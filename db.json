@@ -1,0 +1,39 @@
+{
+    "Reviews":[
+        {
+            "postId": 1,
+            "id": 1,
+            "name": "Kago M",
+            "email": "kago@email.app",
+            "body": "quam autem quasi\nreiciendis et nam sapiente accusantium est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at"
+          },
+          {
+            "postId": 1,
+            "id": 2,
+            "name": "Tommy Shelby",
+            "email": "tommy@shelby.com",
+            "body": "quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
+          },
+          {
+            "postId": 1,
+            "id": 3,
+            "name": "Ada Shelby",
+            "email": "ada@shelby.com",
+            "body": "excepturi deleniti ratione quasi aspernatur\naut laudantium enim quasi est expedita occaecati aliquam eveniet laudantium\nomnis quibusdam et vero voluptates"
+          },
+          {
+            "postId": 1,
+            "id": 4,
+            "name": "Arthur Shelby",
+            "email": "arthur@shelby.com",
+            "body": "deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas non et atque\noccaecati quia molestiae reprehenderit consequuntur itaque dolor\net qui rerum deleniti ut occaecati"
+          },
+          {
+            "postId": 1,
+            "id": 5,
+            "name": "Sophie Knight",
+            "email": "knights@gmail.com",
+            "body": "quia molestiae reprehenderit consequuntur itaque dolor\net qui accusantium unde odit nobis qui voluptatem\nquia voluptas architecto fugit inventore cupiditate\nvoluptates magni quo et"
+          }
+    ]
+}
